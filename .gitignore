@@ -1,0 +1,5 @@
+cifar-10-batches-py/
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
+
